@@ -1,13 +1,12 @@
 def display_board
 puts  "Welcome to Tic Tac Toe Board"
-print "   "+"|"+"   "+"|"+"   "
-puts
+
+puts "   "+"|"+"   "+"|"+"   "
 11.times{print("-")}
-puts
-print "   "+"|"+"   "+"|"+"   "
-puts
+puts "   "+"|"+"   "+"|"+"   "
+
 11.times{print("-")}
-puts
-print "   "+"|"+"   "+"|"+"   "
+
+puts "   "+"|"+"   "+"|"+"   "
 end
  display_board
