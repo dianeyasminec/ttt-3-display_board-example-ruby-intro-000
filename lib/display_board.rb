@@ -2,10 +2,10 @@ def display_board
 puts  "Welcome to Tic Tac Toe Board"
 
 puts "   "+"|"+"   "+"|"+"   "
-11.times{print("-")}
+puts("-----------")
 puts "   "+"|"+"   "+"|"+"   "
 
-11.times{print("-")}
+puts("-----------")
 
 puts "   "+"|"+"   "+"|"+"   "
 end
