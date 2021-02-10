@@ -3,6 +3,7 @@ puts  "Welcome to Tic Tac Toe Board"
 2.times  {print " "+"|"+" "}
 puts
  7.times {print "-"}
+ puts
  2.times  {print " "+"|"+" "}
  puts
   7.times {print "-"}
