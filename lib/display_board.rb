@@ -6,6 +6,6 @@ puts
  2.times  {print " "+"|"+" "}
  puts
   7.times {print "-"}
-  2.times  {print " "+"|"+" "}  
+  2.times  {print " "+"|"+" "}
 end
  display_board
